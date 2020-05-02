@@ -2,6 +2,7 @@
 GoatCoin - a crypto currency
 
 GoatCoin is a personal project I've been looking forward to. It will be a blockchain based crypto currency with 
+
 1 Goat = 1GBP,
 1 Caesar = 0.5 Goat
 1 Croissant = 0.25 Goat
